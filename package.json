@@ -1,6 +1,6 @@
 {
-  "name": "demo_app",
-  "version": "25.3.3",
+  "name": "mcs_gui",
+  "version": "28.3.3",
   "homepage": "/apis/web-client",
   "private": true,
   "scripts": {
@@ -49,6 +49,7 @@
     "randomatic": "^3.1.1",
     "react": "^16.13.1",
     "react-accordeon": "^1.1.1",
+    "react-confirm-alert": "^2.6.1",
     "react-cookie": "^4.0.3",
     "react-dom": "^16.13.1",
     "react-id-generator": "^3.0.0",
